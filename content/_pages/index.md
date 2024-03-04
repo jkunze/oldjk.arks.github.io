@@ -26,9 +26,13 @@ ARKs are open, mainstream, non-paywalled, decentralized persistent identifiers
 that you can start creating in under 48 hours. They identify anything digital,
 physical, or abstract.
 
-![][1]{: .img-thumbnail .img-fluid align="center" width="1024" height="183" loading="eager"}
+<p align="center">
 
-<p align="center" style="font-size:0.5em;">
+![][1]{: .img-thumbnail .img-fluid width="1024" height="183" loading="eager"}
+
+</p>
+
+<p align="center" style="font-size:0.85em;">
 Some things that have ARKs — an article, violin, genealogy, painting, book,
 sports photo, and plant specimen — assigned by the Louvre, Smithsonian
 Institution, Internet Archive, California Digital Library, and FamilySearch.
