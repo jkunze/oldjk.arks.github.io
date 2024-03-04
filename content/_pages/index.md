@@ -19,18 +19,22 @@ behalf of research and scholarship.
 
 End users, especially researchers, rely on ARKs for long term access to the
 global scientific and cultural record. Since 2001 some 8.2 billion ARKs have
-been created by over [1000 organizations] — libraries, data centers, archives,
+been created by over [1200 organizations] — libraries, data centers, archives,
 museums, publishers, government agencies, and vendors.
 
 ARKs are open, mainstream, non-paywalled, decentralized persistent identifiers
 that you can start creating in under 48 hours. They identify anything digital,
 physical, or abstract.
 
+<p align="center">
 ![][1]{: .img-thumbnail .img-fluid width="1024" height="183" loading="eager"}
+</p>
 
+<p align="center">
 Some things that have ARKs — an article, violin, genealogy, painting, book,
 sports photo, and plant specimen — assigned by the Louvre, Smithsonian
 Institution, Internet Archive, California Digital Library, and FamilySearch.
+</p>
 
 ARKs are similar to DOIs, URNs, and Handles. All of them
 
@@ -64,7 +68,7 @@ Ravenelle, that itself has an ARK identifier:
 National Library of France).
 
 
-[1000 organizations]: community.md
+[1200 organizations]: community.md
 [1]: ../assets/images/pages/index/ark_things.png
 [suffix passthrough]: about-ark-naans-and-systems.md#n2t-feature-suffix-passthrough
 [this request form]: https://goo.gl/forms/bmckLSPpbzpZ5dix1
