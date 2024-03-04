@@ -27,10 +27,10 @@ that you can start creating in under 48 hours. They identify anything digital,
 physical, or abstract.
 
 <p align="center">
-
-![][1]{: .img-thumbnail .img-fluid width="1024" height="183" loading="eager"}
-
+<img src="../assets/images/pages/index/ark_things.png" width="100" height="100" border="10" loading="eager"/>
 </p>
+
+<!-- ![][1]{: .img-thumbnail .img-fluid width="1024" height="183" loading="eager"} -->
 
 <p align="center" style="font-size:0.85em;">
 Some things that have ARKs — an article, violin, genealogy, painting, book,
