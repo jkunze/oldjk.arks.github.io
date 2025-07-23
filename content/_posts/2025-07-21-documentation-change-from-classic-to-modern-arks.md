@@ -1,3 +1,19 @@
+---
+title: "ARK documentation changing to show modern ARKs (ark:) by default instead of classic ARKs (ark:/)"
+redirect_from: /blog/2025-07-28-documentation-change-from-classic-to-modern-arks/
+pid: 553
+authors:
+date: 2025-07-28
+published: true
+image: "../assets/images/posts/modern_classic_arks.png"
+---
+
+In late 2025 the ARK Alliance (arks.org) will convert its existing documentation and modify its communication practices to align with the modern form of ARKs, the most visible difference being removal of the slash ('/') at the end of "ark:/".
+
+<!--more-->
+
+![fanciful ark hood ornaments](../../assets/images/posts/modern_classic_arks.png){: .img-thumbnail .img-responsive fetchpriority="high" height="auto" loading="eager"}
+
 Over the month of September 2025 the ARK Alliance (ARKA) will convert its existing documentation and modify its communication practices to align with the modern form of ARKs used in the [ARK technical specification](https://www.ietf.org/archive/id/draft-kunze-ark-41.html) since 2019. The most visible difference, described in a [2022 blog post](https://arks.org/news/2022-03-18-upcoming-changes-to-the-ark-specification/), is the removal of the slash ('/') at the end of "ark:/". Every modern form ARK is, in perpetuity, considered equivalent to the same ARK in classic form. Thus these two ARKs always refer to the same thing:
 
 `   https://digital.library.unt.edu/ark:67531/metadc28359   `     (modern form)<br/>
